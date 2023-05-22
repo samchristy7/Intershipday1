@@ -1,0 +1,23 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 0, 0);
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+.external{
+    color: rgb(36, 7, 139);
+    background-color: lavender;
+}
+#change{
+    color: brown;
+}
+.external h3{
+    color: indigo; ;
+}
+.position{
+   
+
+    border: 2px solid red;
+    padding-left: 10px;
+}
